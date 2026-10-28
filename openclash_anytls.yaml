@@ -12,7 +12,7 @@
 proxy-providers:
   provider1:
     type: http
-    url: "https://24552bba743a.oxycontinon.com/osubscribe.php?sid=134437&token=zEHvRGj2uWcb2E3mjRhT"  # 填入订阅链接
+    url: "xxxx"  # 填入订阅链接
     interval: 3600  # 订阅更新间隔，单位：秒
     path: ./proxy_provider/provider1.yaml
     proxy: DIRECT  # 下载订阅时使用的策略
